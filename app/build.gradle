@@ -8,6 +8,7 @@ android {
     compileSdkVersion 29
     defaultConfig {
         applicationId "com.sunnyweather.android"
+        namespace 'com.sunnyweather.android'
         minSdkVersion 21
         targetSdkVersion 29
         versionCode 1
